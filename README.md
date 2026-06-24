@@ -8,7 +8,7 @@ The code includes data loading, preprocessing, model training (Logistic Regressi
 
 ## Quick links
 
-- Dataset (raw CSV used by the project): https://raw.githubusercontent.com/dileep-lingamallu/Heart-Disease-Prediction-Dataset/main/heart.csv
+- Dataset (raw CSV used by the project): (https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
 - Notebook (interactive): heart_disease_prediction.ipynb
 
 ---
